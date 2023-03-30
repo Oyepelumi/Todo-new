@@ -68,6 +68,7 @@ h1.header {
 .button-complete,
 .button-delete,
 .button-edit {
+  display: flex;
   border: none;
   outline: none;
   cursor: pointer;
@@ -81,22 +82,27 @@ h1.header {
 .button-delete:hover,
 .button-complete:hover,
 .button-edit:hover {
+  display: flex;
   transform: scale(1.1);
 }
 
 
 .button-complete {
+  display: flex;
   color: #50a4d8;
   margin-right: 10px;
 }
 
 .button-edit {
+  display: flex;
   color: #ffffff;
   margin-right: 10px;
 }
 
 .button-delete {
+  display: flex;
   color: rgb(240, 102, 102);
+  margin-right: 10px;
 }
 
 .complete {
