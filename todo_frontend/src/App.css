@@ -43,6 +43,7 @@ h1.header {
   background-color: white;
   border: 1px solid black;
   border-radius: 10px;
+  font-style: italic;
 }
 
 .button-add {
@@ -82,27 +83,22 @@ h1.header {
 .button-delete:hover,
 .button-complete:hover,
 .button-edit:hover {
-  display: flex;
   transform: scale(1.1);
 }
 
 
 .button-complete {
-  display: flex;
   color: #50a4d8;
   margin-right: 10px;
 }
 
 .button-edit {
-  display: flex;
   color: #ffffff;
   margin-right: 10px;
 }
 
 .button-delete {
-  display: flex;
   color: rgb(240, 102, 102);
-  margin-right: 10px;
 }
 
 .complete {
@@ -113,6 +109,7 @@ h1.header {
 }
 
 .list {
+  display: flex;
   width: 220PX;
   background-color: #684407;
   border: none;
