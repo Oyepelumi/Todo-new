@@ -69,7 +69,6 @@ h1.header {
 .button-complete,
 .button-delete,
 .button-edit {
-  display: flex;
   border: none;
   outline: none;
   cursor: pointer;
