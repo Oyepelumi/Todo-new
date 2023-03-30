@@ -43,7 +43,6 @@ h1.header {
   background-color: white;
   border: 1px solid black;
   border-radius: 10px;
-  font-style: italic;
 }
 
 .button-add {
@@ -108,7 +107,6 @@ h1.header {
 }
 
 .list {
-  display: flex;
   width: 220PX;
   background-color: #684407;
   border: none;
