@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Oyepelumi/Todo-new.git/static/css/main.028259fd.css",
+    "main.js": "/Oyepelumi/Todo-new.git/static/js/main.d33712d4.js",
+    "static/js/787.899d52a4.chunk.js": "/Oyepelumi/Todo-new.git/static/js/787.899d52a4.chunk.js",
+    "index.html": "/Oyepelumi/Todo-new.git/index.html",
+    "main.028259fd.css.map": "/Oyepelumi/Todo-new.git/static/css/main.028259fd.css.map",
+    "main.d33712d4.js.map": "/Oyepelumi/Todo-new.git/static/js/main.d33712d4.js.map",
+    "787.899d52a4.chunk.js.map": "/Oyepelumi/Todo-new.git/static/js/787.899d52a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.028259fd.css",
+    "static/js/main.d33712d4.js"
+  ]
+}
